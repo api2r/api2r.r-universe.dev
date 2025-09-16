@@ -4,6 +4,10 @@
         "url": "https://github.com/api2r/stbl"
     },
     {
+        "package": "nectar",
+        "url": "https://github.com/api2r/nectar"
+    },
+    {
         "package": "cloudflareapi",
         "url": "https://github.com/api2r/cloudflareapi"
     }
